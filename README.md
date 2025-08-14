@@ -36,10 +36,6 @@
 
 ### 📊 Estadísticas GitHub
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-git-main-angelicus112.vercel.app/api?username=angelicus112&theme=dark&show_icons=true&hide_border=true" alt="Stats"/>
-  <img height="165em" src="https://github-readme-stats-git-main-angelicus112.vercel.app/api/top-langs/?username=angelicus112&theme=dark&layout=compact&hide_border=true" alt="Lenguajes"/>
-</p>
 
 <p align="center">
   <!-- Estadísticas principales con diseño compacto -->
