@@ -118,19 +118,15 @@
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto5.jpg" 
          width="300" 
-         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+          width="300" 
+       style="border: 2px solid #5865F2; border-radius: 8px;"
+       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
+       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
       <strong>Mapa Con Python</strong>
     </div>
   </a>
 </div>
-
-<style>
-  a:hover img {
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-  }
-</style>
 
 
 
