@@ -86,6 +86,7 @@
       <strong>Sistema Bancario</strong>
     </div>
   </a>
+  
   <!-- Proyecto 2 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
@@ -98,6 +99,7 @@
       <strong>Data Analyst</strong>
     </div>
   </a>
+  
   <!-- Proyecto 3 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
@@ -110,6 +112,7 @@
       <strong>ECOMMERCE</strong>
     </div>
   </a>
+  
   <!-- Proyecto 4 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
@@ -122,6 +125,7 @@
       <strong>Mainframe Simulator</strong>
     </div>
   </a>
+  
   <!-- Proyecto 5 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
