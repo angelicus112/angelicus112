@@ -100,7 +100,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto1.png" 
-           style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+           style="width: 50%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
     </a>
   </div>
 
