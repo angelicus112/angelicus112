@@ -71,54 +71,54 @@
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto1.png" 
          width="300" 
-         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+       style="border: 2px solid #5865F2; border-radius: 8px;"
+       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
+       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
       <strong>Sistema Bancario</strong>
     </div>
   </a>
-
   <!-- Proyecto 2 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto2.png" 
          width="300" 
-         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+       style="border: 2px solid #5865F2; border-radius: 8px;"
+       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
+       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
       <strong>Data Analyst</strong>
     </div>
   </a>
-
   <!-- Proyecto 3 -->
-
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto3.png" 
          width="300" 
-         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+       style="border: 2px solid #5865F2; border-radius: 8px;"
+       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
+       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
       <strong>ECOMMERCE</strong>
     </div>
   </a>
-
   <!-- Proyecto 4 -->
-
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto4.png" 
          width="300" 
-         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+       style="border: 2px solid #5865F2; border-radius: 8px;"
+       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
+       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
       <strong>Mainframe Simulator</strong>
     </div>
   </a>
-
   <!-- Proyecto 5 -->
-
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto5.jpg" 
          width="300" 
-          width="300" 
        style="border: 2px solid #5865F2; border-radius: 8px;"
        onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
        onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
