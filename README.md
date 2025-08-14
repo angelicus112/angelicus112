@@ -69,7 +69,7 @@
   <!-- Proyecto 1 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
-    <img src="" 
+    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto1.png" 
          width="300" 
          style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
