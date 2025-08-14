@@ -36,7 +36,7 @@
 
 ### 🚀 Proyectos Técnicos
 
-🗺️ **[Mapa Interactivo con Python](https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto5-mapaconpython)**  
+🗺️ **[Mapa Interactivo con Python](https://github.com/angelicus112/Mi-Porfolio/blob/main/proyectos/proyecto5-mapaconpython/index.html)**  
 *(Python, Folium, Pandas)* - Visualización geoespacial de datos con marcadores interactivos
 
 💾 **[Simulador de Mainframe](https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto4-mainframe)**  
