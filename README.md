@@ -109,7 +109,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto2.png" 
-           style="width: 50%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+           style="width: 70%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
     </a>
   </div>
 
@@ -118,7 +118,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto3.png" 
-           style="width: 50%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+           style="width: 70%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
     </a>
   </div>
 
@@ -127,7 +127,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto4.png" 
-           style="width: 50%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+           style="width: 70%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
     </a>
   </div>
 
@@ -136,7 +136,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto5.jpg" 
-           style="width: 50%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+           style="width: 70%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
     </a>
   </div>
 </div>
