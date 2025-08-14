@@ -6,12 +6,6 @@
 
 ### 🔧 &nbsp;Perfil Técnico
 
-### 👨‍💻 Acerca de Mí
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/banner-qa.png" width="80%" style="border-radius: 8px; margin-bottom: 20px;">
-</div>
-
 Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en programación y una sólida base técnica como **Técnico en Informática**. Apasionado por la calidad de software, me especializo en:
 
 ✔ **Testing funcional** y análisis detallado de errores  
