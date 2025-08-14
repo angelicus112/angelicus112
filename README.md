@@ -66,11 +66,11 @@
 
 <div align="center" style="
      display: flex;
-     /*flex-wrap: wrap;*/
+     flex-wrap: wrap;
      justify-content: center;
      align-items: flex-start;  /* Alinea items al tope */
      gap: 20px;
-     width: 100%;  /* Ocupa todo el ancho */
+     width: auto;  /* Ocupa todo el ancho */
      overflow-x: auto;  /* Permite scroll horizontal si es necesario */
      padding: 10px 0;  /* Espaciado vertical */
 ">
