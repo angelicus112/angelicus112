@@ -18,14 +18,6 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
 - Certificado en **Testing de Software** (Instituto XYZ)  
 - **Técnico en Informática** con especialización en soporte  
 
-**🛠 Stack Técnico Actual**  
-  "Testing": ["Manual", "Selenium", "Playwright", "JMeter"],
-  "Lenguajes": ["Python", "C#", "C++", "JavaScript"],
-  "Web": ["HTML5", "CSS3", "Bootstrap"],
-  "Metodologías": ["Ágiles", "Scrum", "POO"]
-
-
-
 ### 🛠️ Habilidades Técnicas
 
 #### 💻 **Programación & Desarrollo**
