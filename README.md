@@ -6,13 +6,33 @@
 
 ### 🔧 &nbsp;Perfil Técnico
 
-🛠️ &nbsp;Especializado en **soporte hardware/software** y **automatización de pruebas**.\
-🎓 &nbsp;Certificado como **Técnico Informático** + estudiando **Tecnicatura en Programación**.\
-💻 &nbsp;Experiencia en:
-- Diagnóstico/reparación de equipos
-- Testing funcional (Playwright/Python)
-- Desarrollo web básico (HTML/CSS/JS)\
-📌 &nbsp;Objetivo: Combinar mi base técnica con programación para crear soluciones robustas.
+### 👨‍💻 Acerca de Mí
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/banner-qa.png" width="80%" style="border-radius: 8px; margin-bottom: 20px;">
+</div>
+
+Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en programación y una sólida base técnica como **Técnico en Informática**. Apasionado por la calidad de software, me especializo en:
+
+✔ **Testing funcional** y análisis detallado de errores  
+✔ **Documentación de pruebas** (Casos de prueba, reportes de bugs)  
+✔ Herramientas como <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white">  
+✔ Manejo de **bases de datos SQL** y testing de backend  
+
+**📚 Formación Académica**  
+- Estudiante de **Tecnicatura en Programación** (UTN)  
+- Certificado en **Testing de Software** (Instituto XYZ)  
+- **Técnico en Informática** con especialización en soporte  
+
+**🛠 Stack Técnico Actual**  
+```python
+{
+  "Testing": ["Manual", "Selenium", "Playwright", "JMeter"],
+  "Lenguajes": ["Python", "C#", "C++", "JavaScript"],
+  "Web": ["HTML5", "CSS3", "Bootstrap"],
+  "Metodologías": ["Ágiles", "Scrum", "POO"]
+}
+
 
 ### 🛠️ Habilidades Técnicas
 
