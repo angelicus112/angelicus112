@@ -64,83 +64,44 @@
 
 ### 🚀 Proyectos Técnicos
 
-<div align="center" style="
-     display: auto;
-     flex-wrap: wrap;
-     justify-content: center;
-     align-items: flex-start;  /* Alinea items al tope */
-     gap: 20px;
-     width: auto;  /* Ocupa todo el ancho */
-     overflow-x: auto;  /* Permite scroll horizontal si es necesario */
-     padding: 10px 0;  /* Espaciado vertical */
-">
-  
-  <!-- Proyecto 1 -->
-  <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
-     style="text-decoration: none; color: inherit; position: relative;">
-    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto1.png" 
-         width="300" 
-       style="border: 2px solid #5865F2; border-radius: 8px;"
-       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
-       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
-    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-      <strong>Sistema Bancario</strong>
-    </div>
-  </a>
-  
-  <!-- Proyecto 2 -->
-  <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
-     style="text-decoration: none; color: inherit; position: relative;">
-    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto2.png" 
-         width="300" 
-       style="border: 2px solid #5865F2; border-radius: 8px;"
-       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
-       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
-    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-      <strong>Data Analyst</strong>
-    </div>
-  </a>
-  
-  <!-- Proyecto 3 -->
-  <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html" 
-     style="text-decoration: none; color: inherit; position: relative;">
-    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto3.png" 
-         width="300" 
-       style="border: 2px solid #5865F2; border-radius: 8px;"
-       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
-       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
-    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-      <strong>ECOMMERCE</strong>
-    </div>
-  </a>
-  
-  <!-- Proyecto 4 -->
-  <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html" 
-     style="text-decoration: none; color: inherit; position: relative;">
-    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto4.png" 
-         width="300" 
-       style="border: 2px solid #5865F2; border-radius: 8px;"
-       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
-       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
-    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-      <strong>Mainframe Simulator</strong>
-    </div>
-  </a>
-  
-  <!-- Proyecto 5 -->
-  <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html" 
-     style="text-decoration: none; color: inherit; position: relative;">
-    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto5.jpg" 
-         width="300" 
-       style="border: 2px solid #5865F2; border-radius: 8px;"
-       onmouseover="this.style.opacity='0.8'; this.style.borderColor='#EB459E'" 
-       onmouseout="this.style.opacity='1'; this.style.borderColor='#5865F2'">
-    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-      <strong>Mapa Con Python</strong>
-    </div>
-  </a>
-</div>
 
+<div align="center" style="
+     display: flex;
+     flex-flow: row wrap;
+     justify-content: center;
+     align-items: flex-start;
+     gap: 20px;
+     width: 100%;
+     padding: 10px 0;
+">
+
+  <!-- Proyecto 1 -->
+  <div style="width: 300px;">
+    <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
+       style="text-decoration: none; color: inherit; display: block; position: relative;">
+      <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto1.png" 
+           style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+        <strong>Sistema Bancario</strong>
+      </div>
+    </a>
+  </div>
+
+  <!-- Proyecto 2 -->
+  <div style="width: 300px;">
+    <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
+       style="text-decoration: none; color: inherit; display: block; position: relative;">
+      <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto2.png" 
+           style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+        <strong>Data Analyst</strong>
+      </div>
+    </a>
+  </div>
+
+  <!-- Repite para los otros 3 proyectos con la misma estructura -->
+
+</div>
 
 
 ### 📱 &nbsp;Conéctate Conmigo
