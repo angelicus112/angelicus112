@@ -144,7 +144,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
 
 ### 📱 &nbsp;Conéctate Conmigo
 
-<p align="center">
+<p align="center; style="width: 70%;">
 <a href="https://angelicus112.github.io/Mi-Porfolio/"><img src="https://img.shields.io/badge/-Mi%20Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>  
 <a href="https://www.linkedin.com/in/angel-lautaro-martinez-62829b348"><img src="https://img.shields.io/badge/-Angel%20Lautaro%20Martínez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:angelautaromartinez@gmail.com"><img src="https://img.shields.io/badge/-angelautaromartinez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
