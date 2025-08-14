@@ -81,9 +81,6 @@
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto1.png" 
            style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-        <strong>Sistema Bancario</strong>
-      </div>
     </a>
   </div>
 
@@ -93,9 +90,6 @@
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto2.png" 
            style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-        <strong>Data Analyst</strong>
-      </div>
     </a>
   </div>
 
@@ -105,9 +99,6 @@
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto3.png" 
            style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-        <strong>ECOMMERCE</strong>
-      </div>
     </a>
   </div>
 
@@ -117,9 +108,6 @@
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto4.png" 
            style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-        <strong>Mainframe Simulator</strong>
-      </div>
     </a>
   </div>
 
@@ -129,9 +117,6 @@
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto5.jpg" 
            style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
-      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-        <strong>Mapa Con Python</strong>
-      </div>
     </a>
   </div>
 </div>
