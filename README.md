@@ -34,6 +34,30 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=183A61)
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <!-- Estadísticas generales -->
+  <a href="https://github.com/angelicus112">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicus112&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Angel"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicus112&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+  </a>
+  
+  <!-- Streak stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicus112&theme=dark&hide_border=true" alt="Racha de contribuciones"/>
+  
+  <!-- Gráfico de actividad -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelicus112&theme=github_dark" alt="Actividad reciente"/>
+</p>
+
+<!-- Trofeos (opcional) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=angelicus112&theme=onedark&no-frame=true&row=1&column=7" alt="Trofeos GitHub"/>
+  </a>
+</p>
+
+
 ### 🚀 Proyectos Técnicos
 
 🗺️ **[Mapa Interactivo con Python](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html)**  
