@@ -14,26 +14,45 @@
 - Desarrollo web básico (HTML/CSS/JS)\
 📌 &nbsp;Objetivo: Combinar mi base técnica con programación para crear soluciones robustas.
 
-### 🛠️ &nbsp;Skills Técnicas
+### 🛠️ Habilidades Técnicas
 
-#### 🔌 Hardware & Redes
-![Windows OS](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
-![Redes](https://img.shields.io/badge/-Redes-05122A?style=flat&logo=cisco&logoColor=white)
-![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
+#### 💻 **Programación & Desarrollo**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-#### 💻 Programación
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
-![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
+#### 🧪 **Testing & QA**
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-#### 🛠 Herramientas
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=183A61)
+#### 🗃️ **Bases de Datos**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### 🖥️ **Sistemas & Herramientas**
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![WINS](https://img.shields.io/badge/WINS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![TERA](https://img.shields.io/badge/TERA-FF6C37?style=for-the-badge&logo=terminal&logoColor=white)
+![Intranet](https://img.shields.io/badge/INTRANET-5E5E5E?style=for-the-badge&logo=intel&logoColor=white)
+
+#### 📊 **Productividad & Diseño**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+#### 🧠 **Metodologías**
+![POO](https://img.shields.io/badge/POO_(OOP)-999999?style=for-the-badge&logo=oop&logoColor=white)
+![Testing Manual](https://img.shields.io/badge/Testing_Manual-FFD43B?style=for-the-badge&logo=testing-library&logoColor=black)
 
 ### 📊 Estadísticas GitHub
 
