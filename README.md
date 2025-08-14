@@ -66,7 +66,7 @@
 
 <a align="center" style="
      display: flex;
-     flex-wrap: wrap;
+     /*flex-wrap: wrap;*/
      justify-content: center;
      align-items: flex-start;  /* Alinea items al tope */
      gap: 20px;
