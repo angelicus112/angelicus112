@@ -64,8 +64,16 @@
 
 ### 🚀 Proyectos Técnicos
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
+<div align="center" style="
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     align-items: flex-start;  /* Alinea items al tope */
+     gap: 20px;
+     width: 100%;  /* Ocupa todo el ancho */
+     overflow-x: auto;  /* Permite scroll horizontal si es necesario */
+     padding: 10px 0;  /* Espaciado vertical */
+">
   <!-- Proyecto 1 -->
   <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
      style="text-decoration: none; color: inherit; position: relative;">
