@@ -96,7 +96,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
 ">
 
   <!-- Proyecto 1 - Sistema Bancario -->
-  <div style="width: 300px;">
+  <div style="width: 200px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto1.png" 
@@ -105,7 +105,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
   </div>
 
   <!-- Proyecto 2 - Data Analyst -->
-  <div style="width: 300px;">
+  <div style="width: 200px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto2.png" 
@@ -114,7 +114,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
   </div>
 
   <!-- Proyecto 3 - ECOMMERCE -->
-  <div style="width: 300px;">
+  <div style="width: 200px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto3.png" 
@@ -123,7 +123,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
   </div>
 
   <!-- Proyecto 4 - Mainframe Simulator -->
-  <div style="width: 300px;">
+  <div style="width: 200px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto4.png" 
@@ -132,7 +132,7 @@ Soy **Ángel Lautaro Martínez**, **QA Tester Manual Jr.** con formación en pro
   </div>
 
   <!-- Proyecto 5 - Mapa Con Python -->
-  <div style="width: 300px;">
+  <div style="width: 200px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
       <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto5.jpg" 
