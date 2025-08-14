@@ -39,16 +39,16 @@
 🗺️ **[Mapa Interactivo con Python](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html)**  
 *(Python, Folium, Pandas)* - Visualización geoespacial de datos con marcadores interactivos
 
-💾 **[Simulador de Mainframe]([https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto4-mainframe](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html))**  
+💾 **[Simulador de Mainframe](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html)**  
 *(Java, COBOL emulado)* - Entorno para prácticas con terminales tipo mainframe
 
-🛒 **[E-commerce Fullstack]([https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto3-ecommerce](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html))**  
+🛒 **[E-commerce Fullstack](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html)**  
 *(React, Node.js, MongoDB)* - Plataforma comercial con carrito y autenticación
 
-⚙️ **[API REST para Gestión Técnica]([https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto2-api](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html))**  
+⚙️ **[API REST para Gestión Técnica](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html))**  
 *(Python, Flask, SQLite)* - Backend para sistema de tickets de soporte
 
-🎨 **[Sitio Web Elegante]([https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto1-elegante](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html))**  
+🎨 **[Sitio Web Elegante](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html)**  
 *(HTML5, CSS3, JavaScript Vanilla)* - Landing page responsive con efectos modernos
 
 
