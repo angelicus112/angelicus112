@@ -84,7 +84,6 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Sistema Bancario</strong>
       </div>
-      <p style="margin-top: 10px; text-align: center; color: #333;">Tecnologías: Java, SQL</p>
     </a>
   </div>
 
@@ -97,7 +96,6 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Data Analyst</strong>
       </div>
-      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: Python, Pandas</p>
     </a>
   </div>
 
@@ -110,7 +108,6 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>ECOMMERCE</strong>
       </div>
-      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: React, Node.js</p>
     </a>
   </div>
 
@@ -123,7 +120,6 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Mainframe Simulator</strong>
       </div>
-      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: COBOL, JCL</p>
     </a>
   </div>
 
@@ -136,10 +132,8 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Mapa Con Python</strong>
       </div>
-      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: Python, Folium</p>
     </a>
   </div>
-
 </div>
 
 
