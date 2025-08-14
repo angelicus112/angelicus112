@@ -64,20 +64,38 @@
 
 ### 🚀 Proyectos Técnicos
 
-🗺️ **[Mapa Interactivo con Python](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html)**  
-*(Python, Folium, Pandas)* - Visualización geoespacial de datos con marcadores interactivos
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-💾 **[Simulador de Mainframe](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html)**  
-*(Java, COBOL emulado)* - Entorno para prácticas con terminales tipo mainframe
+  <!-- Proyecto 1 -->
+  <a href="https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto1-elegante" 
+     style="text-decoration: none; color: inherit; position: relative;">
+    <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/sistema-bancario.jpg" 
+         width="300" 
+         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+      <strong>Sistema Bancario</strong>
+    </div>
+  </a>
 
-🛒 **[E-commerce Fullstack](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html)**  
-*(React, Node.js, MongoDB)* - Plataforma comercial con carrito y autenticación
+  <!-- Proyecto 2 -->
+  <a href="https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto4-mainframe" 
+     style="text-decoration: none; color: inherit; position: relative;">
+    <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto2" 
+         width="300" 
+         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+      <strong>Mainframe Simulator</strong>
+    </div>
+  </a>
 
-⚙️ **[API REST para Gestión Técnica](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html))**  
-*(Python, Flask, SQLite)* - Backend para sistema de tickets de soporte
+</div>
 
-🎨 **[Sitio Web Elegante](https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html)**  
-*(HTML5, CSS3, JavaScript Vanilla)* - Landing page responsive con efectos modernos
+<style>
+  a:hover img {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  }
+</style>
 
 
 
