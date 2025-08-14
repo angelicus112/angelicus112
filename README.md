@@ -34,9 +34,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=183A61)
 
-### 🔥 Mis Contribuciones Recientes
-- [📌 Proyecto Mapa con Python](https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto5-mapaconpython) - Código destacado
-- [💻 3+ repositorios públicos](https://github.com/angelicus112?tab=repositories)
 
 ### 📊 Estadísticas GitHub
 
