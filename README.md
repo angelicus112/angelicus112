@@ -84,7 +84,7 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Sistema Bancario</strong>
       </div>
-      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: Java, SQL</p>
+      <p style="margin-top: 10px; text-align: center; color: #333;">Tecnologías: Java, SQL</p>
     </a>
   </div>
 
