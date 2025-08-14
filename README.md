@@ -65,7 +65,7 @@
 ### 🚀 Proyectos Técnicos
 
 <div align="center" style="
-     /*display: flex;*/
+     display: flex;
      /*flex-wrap: wrap;*/
      justify-content: center;
      align-items: flex-start;  /* Alinea items al tope */
