@@ -34,23 +34,23 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=183A61)
 
-### 📊 GitHub Analytics
+### 📊 Estadísticas GitHub
 
 <p align="center">
-  <!-- Estadísticas generales -->
+  <!-- Estadísticas principales con diseño compacto -->
   <a href="https://github.com/angelicus112">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicus112&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Angel"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicus112&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=angelicus112&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="Estadísticas"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicus112&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=Mi-Porfolio" alt="Lenguajes"/>
   </a>
   
-  <!-- Streak stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=angelicus112&theme=dark&hide_border=true" alt="Racha de contribuciones"/>
+  <!-- Racha de contribuciones -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=angelicus112&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha"/>
   
-  <!-- Gráfico de actividad -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelicus112&theme=github_dark" alt="Actividad reciente"/>
+  <!-- Tarjetas de actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelicus112&theme=redical&hide_border=true&area=true" alt="Gráfico de actividad"/>
 </p>
 
-<!-- Trofeos (opcional) -->
+### 🏆 Trofeos
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=angelicus112&theme=onedark&no-frame=true&row=1&column=7" alt="Trofeos GitHub"/>
