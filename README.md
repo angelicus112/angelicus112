@@ -75,7 +75,7 @@
      padding: 10px 0;
 ">
 
-  <!-- Proyecto 1 -->
+  <!-- Proyecto 1 - Sistema Bancario -->
   <div style="width: 300px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto1-elegante/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
@@ -84,10 +84,11 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Sistema Bancario</strong>
       </div>
+      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: Java, SQL</p>
     </a>
   </div>
 
-  <!-- Proyecto 2 -->
+  <!-- Proyecto 2 - Data Analyst -->
   <div style="width: 300px;">
     <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto2-api/index.html" 
        style="text-decoration: none; color: inherit; display: block; position: relative;">
@@ -96,10 +97,48 @@
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
         <strong>Data Analyst</strong>
       </div>
+      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: Python, Pandas</p>
     </a>
   </div>
 
-  <!-- Repite para los otros 3 proyectos con la misma estructura -->
+  <!-- Proyecto 3 - ECOMMERCE -->
+  <div style="width: 300px;">
+    <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto3-ecommerce/index.html" 
+       style="text-decoration: none; color: inherit; display: block; position: relative;">
+      <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto3.png" 
+           style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+        <strong>ECOMMERCE</strong>
+      </div>
+      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: React, Node.js</p>
+    </a>
+  </div>
+
+  <!-- Proyecto 4 - Mainframe Simulator -->
+  <div style="width: 300px;">
+    <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto4-mainframe/index.html" 
+       style="text-decoration: none; color: inherit; display: block; position: relative;">
+      <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto4.png" 
+           style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+        <strong>Mainframe Simulator</strong>
+      </div>
+      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: COBOL, JCL</p>
+    </a>
+  </div>
+
+  <!-- Proyecto 5 - Mapa Con Python -->
+  <div style="width: 300px;">
+    <a href="https://angelicus112.github.io/Mi-Porfolio/proyectos/proyecto5-mapaconpython/index.html" 
+       style="text-decoration: none; color: inherit; display: block; position: relative;">
+      <img src="https://raw.githubusercontent.com/angelicus112/angelicus112/main/assets/proyectos/proyecto5.jpg" 
+           style="width: 100%; border: 2px solid #5865F2; border-radius: 8px; transition: all 0.3s ease;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+        <strong>Mapa Con Python</strong>
+      </div>
+      <p style="margin-top: 5px; text-align: center; color: #333;">Tecnologías: Python, Folium</p>
+    </a>
+  </div>
 
 </div>
 
