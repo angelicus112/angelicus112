@@ -64,7 +64,7 @@
 
 ### 🚀 Proyectos Técnicos
 
-<a align="center" style="
+<div align="center" style="
      /*display: flex;*/
      /*flex-wrap: wrap;*/
      justify-content: center;
@@ -134,7 +134,7 @@
       <strong>Mapa Con Python</strong>
     </div>
   </a>
-</a>
+</div>
 
 
 
