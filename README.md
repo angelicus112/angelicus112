@@ -67,17 +67,6 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Proyecto 1 -->
-  <a href="https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto1-elegante" 
-     style="text-decoration: none; color: inherit; position: relative;">
-    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto1.png" 
-         width="300" 
-         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
-      <strong>Sistema Bancario</strong>
-    </div>
-  </a>
-
-  <!-- Proyecto 2 -->
   <a href="https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto4-mainframe" 
      style="text-decoration: none; color: inherit; position: relative;">
     <img src="" 
@@ -85,6 +74,17 @@
          style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
       <strong>Mainframe Simulator</strong>
+    </div>
+  </a>
+
+  <!-- Proyecto 2 -->
+  <a href="https://github.com/angelicus112/Mi-Porfolio/tree/main/proyectos/proyecto1-elegante" 
+     style="text-decoration: none; color: inherit; position: relative;">
+    <img src="https://github.com/angelicus112/angelicus112/blob/main/assets/proyectos/proyecto1.png" 
+         width="300" 
+         style="border-radius: 8px; transition: transform 0.3s; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <div style="position: absolute; bottom: 10px; left: 0; right: 0; background: rgba(0,0,0,0.7); color: white; padding: 8px; text-align: center; border-radius: 0 0 8px 8px;">
+      <strong>Sistema Bancario</strong>
     </div>
   </a>
 
